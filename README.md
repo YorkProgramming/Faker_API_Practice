@@ -1,0 +1,1 @@
+Practice using API's and pulling different kinds of information and displaying that on the webpage using JS.
